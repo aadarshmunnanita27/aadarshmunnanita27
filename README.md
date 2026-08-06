@@ -5,23 +5,12 @@
 
 <br/>
 
-<!-- Social badges -->
-<a href="https://github.com/aadarshmunnanita27"><img src="https://img.shields.io/github/followers/aadarshmunnanita27?label=Follow&style=social" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-&nbsp;
-<a href="https://YOUR-PORTFOLIO-LINK.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
 
-</div>
-
----
 
 ### $ whoami
 
 ```
-Name        : Aadarsh Munna
+ Aadarsh Munna
 
 $ education
 
