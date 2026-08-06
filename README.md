@@ -1,16 +1,104 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**aadarshmunnanita27/aadarshmunnanita27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aadarsh+%F0%9F%91%8B;Full+Stack+Developer;Building+AI-powered+products;MERN+%7C+React+%7C+Node.js+%7C+Gemini+API" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Social badges -->
+<a href="https://github.com/aadarshmunnanita27"><img src="https://img.shields.io/github/followers/aadarshmunnanita27?label=Follow&style=social" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<a href="https://YOUR-PORTFOLIO-LINK.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
+
+</div>
+
+---
+
+### $ whoami
+
+```
+Name        : Aadarsh Munnan
+Role        : Full Stack Developer (MERN)
+Focus       : Building AI-integrated web applications
+Currently   : Shipping Neurixa-AI, an AI conversational assistant
+Learning    : System Design, Advanced React patterns, LLM tooling
+```
+
+### $ current_projects
+
+| Project | Stack | Description |
+|---|---|---|
+| 🤖 [Neurixa-AI](https://github.com/aadarshmunnanita27/Neurixa-AI) | React · Node.js · Express · MongoDB · Gemini API | AI-powered conversational assistant |
+| 🌍 [WanderLust-Project](https://github.com/aadarshmunnanita27/WanderLust-Project) | JavaScript | Travel/listing web app |
+
+
+> Swap this table for your top 2–3 projects — one-line description each, no fluff.
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,py,html,css" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,redux,vite" />
+
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase" />
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel" />
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aadarshmunnanita27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadarshmunnanita27&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aadarshmunnanita27&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/aadarshmunnanita27/aadarshmunnanita27/output/github-contribution-grid-snake.svg" />
+</div>
+
+> This one needs a GitHub Action — setup steps are below, it doesn't work by just pasting the image tag.
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+<a href="https://www.linkedin.com/in/aadarsh-munna-53b551308"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+<a href="mailto:aadarshmunnacse@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<!-- <a href="https://YOUR-PORTFOLIO-LINK.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> -->
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=aadarshmunnanita27&label=Profile%20Views&color=38BDF8&style=flat" />
+
+</div>
