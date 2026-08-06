@@ -88,6 +88,6 @@ Learning    : System Design, Advanced React patterns, LLM tooling
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=aadarshmunnanita27&label=Profile%20Views&color=38BDF8&style=flat" />
+
 
 </div>
