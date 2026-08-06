@@ -23,7 +23,7 @@ Backend Engineering
 System Design
 
 
-Focus       : Building AI-integrated web applications
+Focus    : Building AI-integrated web applications
 Currently   : Shipping Neurixa-AI, an AI conversational assistant
 Learning    : System Design, Advanced React patterns, LLM tooling
 ```
