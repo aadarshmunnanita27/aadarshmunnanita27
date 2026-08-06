@@ -21,24 +21,25 @@
 ### $ whoami
 
 ```
-Name        : Aadarsh Munnan
-Role        : Full Stack Developer (MERN)
+Name        : Aadarsh Munna
+
+$ education
+
+B.Tech CSE @ NIT Agartala ('27)
+
+$ specialization
+
+Full Stack Development
+Backend Engineering
+System Design
+
+
 Focus       : Building AI-integrated web applications
 Currently   : Shipping Neurixa-AI, an AI conversational assistant
 Learning    : System Design, Advanced React patterns, LLM tooling
 ```
 
-### $ current_projects
 
-| Project | Stack | Description |
-|---|---|---|
-| 🤖 [Neurixa-AI](https://github.com/aadarshmunnanita27/Neurixa-AI) | React · Node.js · Express · MongoDB · Gemini API | AI-powered conversational assistant |
-| 🌍 [WanderLust-Project](https://github.com/aadarshmunnanita27/WanderLust-Project) | JavaScript | Travel/listing web app |
-
-
-> Swap this table for your top 2–3 projects — one-line description each, no fluff.
-
----
 
 ### 🛠️ Tech Stack
 
@@ -85,9 +86,8 @@ Learning    : System Design, Advanced React patterns, LLM tooling
 <img src="https://raw.githubusercontent.com/aadarshmunnanita27/aadarshmunnanita27/output/github-contribution-grid-snake.svg" />
 </div>
 
-> This one needs a GitHub Action — setup steps are below, it doesn't work by just pasting the image tag.
 
----
+
 
 <div align="center">
 
