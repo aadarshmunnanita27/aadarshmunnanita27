@@ -22,22 +22,6 @@ Right now I'm building **Neurixa-AI**, an AI-powered conversational assistant, w
 
 ---
 
-### $ whoami
-
-```
-Aadarsh Munna
-B.Tech CSE @ NIT Agartala ('27)
-
-### $ Specialization
-
-Full Stack Development
-Backend Engineering
-System Design
-
-```
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages**
