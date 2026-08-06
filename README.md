@@ -75,16 +75,6 @@ System Design
 
 ---
 
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aadarshmunnanita27&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
 ### 📈 Contribution Graph
 
 <div align="center">
@@ -92,23 +82,6 @@ System Design
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadarshmunnanita27&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
-
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/aadarshmunnanita27/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadarshmunnanita27&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/aadarshmunnanita27/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadarshmunnanita27&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-> Replace `REPO_NAME_1` / `REPO_NAME_2` with your actual repo names (e.g. Neurixa-AI).
 
 ---
 
@@ -122,7 +95,5 @@ System Design
 </div>
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=aadarshmunnanita27&color=38BDF8&style=flat-square&label=Profile+Views)
 
 </div>
