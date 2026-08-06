@@ -56,10 +56,7 @@ Learning    : System Design, Advanced React patterns, LLM tooling
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aadarshmunnanita27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadarshmunnanita27&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadarshmunnanita27&theme=tokyonight&hide_border=true" />
 
